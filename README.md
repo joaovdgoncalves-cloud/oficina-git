@@ -1,3 +1,3 @@
-#oficina-git
+# Oficina GIT
 
 ## Primeiro repositório
